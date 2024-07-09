@@ -9,6 +9,8 @@ countries= []
 columns_dict={}
 temp_group=[]
 rows_dict ={}
+
+
 page1 = requests.get("https://data.un.org/")
 
 
@@ -23,6 +25,7 @@ def main(page):
 
 def scrape_country(all_countries_links, countries):
 
+        
     for i , country in enumerate(all_countries_links[:3]):
         rows =[]
         first_table=[]

@@ -11,3 +11,4 @@ Final Approach
 I have decided to start the project anew with a different strategy. This time, I will pair the values with their corresponding indicators as I scrape the data, and insert 'None' for any missing values. This should ensure that the data is accurate and properly formatted.
 
 the modified project will be in another repo and as soon ihave finished i will link it in here
+this is the link of the version two of the project : https://github.com/baselnabil/economic_scrapingv2-
